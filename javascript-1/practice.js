@@ -10,7 +10,7 @@ var myName = "Sarah";
 
 var faveNum = 14;
 
-//////////////////PROBLEM 3////////////////////
+//////////////////PROBLEM 3/////////////////////////////
 
 // Create a variable called 'lovesCode' and assign it a value of true.
 
